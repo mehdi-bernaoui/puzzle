@@ -2,14 +2,14 @@ import pygame
 import random
 import time
 
-# COLORS (r, g, b)
+# COULEURS (r, g, b)
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 DARKGREY = (40, 40, 40)
 LIGHTGREY = (100, 100, 100)
 BGCOLOUR = DARKGREY
 
-# game settings
+# PARAMETRE DU JEUX
 WIDTH = 800
 HEIGHT = 641
 FPS = 60
